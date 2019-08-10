@@ -1,4 +1,4 @@
-# Auto reply for WA  
+# Auto reply for FB Messenger
 <a href="https://play.google.com/store/apps/details?id=com.pransuinc.autoreplyforfb" target="_blank"> <img src="https://pransuinc.github.io/Auto-reply-for-WA/img/google-play-badge.svg" width="200px" /></a> 
 
 Save your time in busy life using AutoReply App as a Personal assistant.
